@@ -37,7 +37,6 @@ namespace API.Controllers
             }
 
             return null;
-
         }
 
         private async Task<List<int>> GetStoryIdsAsync()
