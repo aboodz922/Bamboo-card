@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "API.Controllers.StoriesController",
+    "Method": "StoryList",
+    "RelativePath": "api/Stories",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "API.DTOs.Stories",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
